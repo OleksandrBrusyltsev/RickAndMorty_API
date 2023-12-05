@@ -1,6 +1,6 @@
 [
   {
-    "Id": "e6eaf8f0-cb93-41de-b965-bd46be3b9699",
+    "Id": "746b0d61-1f6c-4e5c-9bf9-f8e6bccfe315",
     "Metadata": "Earth (C-137)",
     "RawData": {
       "id": 1,
@@ -41,7 +41,7 @@
     }
   },
   {
-    "Id": "6730c68e-67e0-49d2-8333-9d5970662119",
+    "Id": "ab2d4ad7-53ff-4faf-b7ed-f1be5c5d3cda",
     "Metadata": "Abadango",
     "RawData": {
       "id": 2,
@@ -56,7 +56,7 @@
     }
   },
   {
-    "Id": "1cfef917-8c54-49c7-934d-3a8353e28200",
+    "Id": "1c16ca6d-5ced-4ea7-a16a-875962c6019b",
     "Metadata": "Citadel of Ricks",
     "RawData": {
       "id": 3,
@@ -171,7 +171,7 @@
     }
   },
   {
-    "Id": "4eb1fdd0-decc-44e1-b4d3-b34b23dfba55",
+    "Id": "2b820162-46e9-43de-b685-c8fc2432c3e8",
     "Metadata": "Worldender's lair",
     "RawData": {
       "id": 4,
@@ -194,7 +194,7 @@
     }
   },
   {
-    "Id": "76339e6a-2949-45d1-b9b8-c866a34e9e51",
+    "Id": "a365c96c-278c-4556-a9f1-4f05bd950730",
     "Metadata": "Anatomy Park",
     "RawData": {
       "id": 5,
@@ -219,7 +219,7 @@
     }
   },
   {
-    "Id": "e41dc681-048a-4f7f-b1ae-fc7120593943",
+    "Id": "12894e75-19bb-44a3-8918-07b9ebd04c99",
     "Metadata": "Interdimensional Cable",
     "RawData": {
       "id": 6,
@@ -295,7 +295,7 @@
     }
   },
   {
-    "Id": "f01d3d26-6abf-4e1d-8d52-ba60ab1c4350",
+    "Id": "6370b53e-6a16-4f69-9768-332681388e41",
     "Metadata": "Immortality Field Resort",
     "RawData": {
       "id": 7,
@@ -312,7 +312,7 @@
     }
   },
   {
-    "Id": "2632a204-629a-42dc-b618-c152a707ebc9",
+    "Id": "c0089488-a5e6-41d3-893e-95de21f31cd8",
     "Metadata": "Post-Apocalyptic Earth",
     "RawData": {
       "id": 8,
@@ -336,7 +336,7 @@
     }
   },
   {
-    "Id": "d9f71549-03f8-4fc0-941b-b46eae964cea",
+    "Id": "7d68a413-0c76-4391-9149-13c46a6608b6",
     "Metadata": "Purge Planet",
     "RawData": {
       "id": 9,
@@ -354,7 +354,7 @@
     }
   },
   {
-    "Id": "af40a52e-2561-4c5e-9230-3e11ceed1bf6",
+    "Id": "f7aa3084-afdd-4bf8-b591-92d8b7a110e3",
     "Metadata": "Venzenulon 7",
     "RawData": {
       "id": 10,
@@ -369,7 +369,7 @@
     }
   },
   {
-    "Id": "9eae0f58-bc22-46af-a7aa-847f41e2bb93",
+    "Id": "e753eacb-acd5-4d46-9097-216270e51d8f",
     "Metadata": "Bepis 9",
     "RawData": {
       "id": 11,
@@ -384,7 +384,7 @@
     }
   },
   {
-    "Id": "32f4b8d8-4f69-49e3-9945-7c4bc711bb17",
+    "Id": "0af8c39c-9ef3-4137-b883-53d2ca3613bf",
     "Metadata": "Cronenberg Earth",
     "RawData": {
       "id": 12,
@@ -397,7 +397,7 @@
     }
   },
   {
-    "Id": "38fcb226-3028-4ed0-8846-2e9549c9a40d",
+    "Id": "5121adc6-0f18-460a-96a8-927c2a34898e",
     "Metadata": "Nuptia 4",
     "RawData": {
       "id": 13,
@@ -422,7 +422,7 @@
     }
   },
   {
-    "Id": "4c413baf-39a7-41fe-814a-e710dfbaa271",
+    "Id": "d6bc5698-2920-4d05-a16b-c8881ed3bd92",
     "Metadata": "Giant's Town",
     "RawData": {
       "id": 14,
@@ -439,7 +439,7 @@
     }
   },
   {
-    "Id": "5e90b188-8b82-40c5-88e1-4a49e1093dd9",
+    "Id": "af599929-2fc3-46f3-8708-e5b38c0c6500",
     "Metadata": "Bird World",
     "RawData": {
       "id": 15,
@@ -452,7 +452,7 @@
     }
   },
   {
-    "Id": "a2bca4de-ea21-4a79-9565-50e3ba57d9dc",
+    "Id": "0075c8e1-ec3e-4edc-9ef5-bcad548c41cc",
     "Metadata": "St. Gloopy Noops Hospital",
     "RawData": {
       "id": 16,
@@ -475,7 +475,7 @@
     }
   },
   {
-    "Id": "464ad43b-c0d3-4db5-8284-d01f4f232c6d",
+    "Id": "c4bda9c0-bd0e-4d6f-b3b2-d7a37b16f2ec",
     "Metadata": "Earth (5-126)",
     "RawData": {
       "id": 17,
@@ -488,7 +488,7 @@
     }
   },
   {
-    "Id": "f091a7c1-d733-455e-86e6-9fa9bd799369",
+    "Id": "0b8ce643-660e-4dfb-ba2e-322c336d9128",
     "Metadata": "Mr. Goldenfold's dream",
     "RawData": {
       "id": 18,
@@ -510,7 +510,7 @@
     }
   },
   {
-    "Id": "e4c43dae-7f9b-4a2b-8164-d76842210a43",
+    "Id": "c56bcbc4-aae6-4e15-b2ee-1e165d20cdb1",
     "Metadata": "Gromflom Prime",
     "RawData": {
       "id": 19,
@@ -523,7 +523,7 @@
     }
   },
   {
-    "Id": "ccd143dc-6f02-4b97-9e87-400688c3b6e9",
+    "Id": "b3d90b64-a740-464d-8231-467a176b9116",
     "Metadata": "Earth (Replacement Dimension)",
     "RawData": {
       "id": 20,
@@ -764,6 +764,1775 @@
       ],
       "url": "https://rickandmortyapi.com/api/location/20",
       "created": "2017-11-18T19:33:01.173Z"
+    }
+  },
+  {
+    "Id": "6a886470-e9a9-4ac0-bc0d-ea648ba40eee",
+    "Metadata": "Testicle Monster Dimension",
+    "RawData": {
+      "id": 21,
+      "name": "Testicle Monster Dimension",
+      "type": "Dimension",
+      "dimension": "Testicle Monster Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/7",
+        "https://rickandmortyapi.com/api/character/436"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/21",
+      "created": "2017-11-18T19:41:01.605Z"
+    }
+  },
+  {
+    "Id": "065ca33a-ef9b-4bb8-b20d-a41b77b4345e",
+    "Metadata": "Signus 5 Expanse",
+    "RawData": {
+      "id": 22,
+      "name": "Signus 5 Expanse",
+      "type": "unknown",
+      "dimension": "Cromulon Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/24",
+        "https://rickandmortyapi.com/api/character/309"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/22",
+      "created": "2017-11-18T20:27:26.218Z"
+    }
+  },
+  {
+    "Id": "e522ae10-7c55-4dcb-a75d-ce0eb66814bb",
+    "Metadata": "Earth (C-500A)",
+    "RawData": {
+      "id": 23,
+      "name": "Earth (C-500A)",
+      "type": "Planet",
+      "dimension": "Dimension C-500A",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/37",
+        "https://rickandmortyapi.com/api/character/91",
+        "https://rickandmortyapi.com/api/character/176",
+        "https://rickandmortyapi.com/api/character/183",
+        "https://rickandmortyapi.com/api/character/195"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/23",
+      "created": "2017-11-18T20:58:15.178Z"
+    }
+  },
+  {
+    "Id": "d6ebbe2f-d43d-4bea-926c-2b5ce96804cd",
+    "Metadata": "Rick's Battery Microverse",
+    "RawData": {
+      "id": 24,
+      "name": "Rick's Battery Microverse",
+      "type": "Microverse",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/65",
+        "https://rickandmortyapi.com/api/character/388"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/24",
+      "created": "2017-11-30T11:02:41.722Z"
+    }
+  },
+  {
+    "Id": "1b69c442-aa68-4f07-b079-002f6f5d4a91",
+    "Metadata": "The Menagerie",
+    "RawData": {
+      "id": 25,
+      "name": "The Menagerie",
+      "type": "Menagerie",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/67",
+        "https://rickandmortyapi.com/api/character/490",
+        "https://rickandmortyapi.com/api/character/491"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/25",
+      "created": "2017-11-30T11:13:46.697Z"
+    }
+  },
+  {
+    "Id": "dafe95a6-83ad-4949-bd78-68ce3a025b80",
+    "Metadata": "Earth (K-83)",
+    "RawData": {
+      "id": 26,
+      "name": "Earth (K-83)",
+      "type": "Planet",
+      "dimension": "Dimension K-83",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/26",
+      "created": "2017-11-30T11:41:11.452Z"
+    }
+  },
+  {
+    "Id": "0a5ecc5c-dbc8-4df7-8930-c41e26f9adfa",
+    "Metadata": "Hideout Planet",
+    "RawData": {
+      "id": 27,
+      "name": "Hideout Planet",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/79",
+        "https://rickandmortyapi.com/api/character/84"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/27",
+      "created": "2017-11-30T14:18:16.869Z"
+    }
+  },
+  {
+    "Id": "03e1495b-1515-4241-8bfa-83cfdb7ec1ca",
+    "Metadata": "Unity's Planet",
+    "RawData": {
+      "id": 28,
+      "name": "Unity's Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/90",
+        "https://rickandmortyapi.com/api/character/188",
+        "https://rickandmortyapi.com/api/character/301",
+        "https://rickandmortyapi.com/api/character/336",
+        "https://rickandmortyapi.com/api/character/355",
+        "https://rickandmortyapi.com/api/character/372"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/28",
+      "created": "2017-11-30T14:28:54.591Z"
+    }
+  },
+  {
+    "Id": "2dc93ca0-7210-4a54-8194-e5c45f672527",
+    "Metadata": "Dorian 5",
+    "RawData": {
+      "id": 29,
+      "name": "Dorian 5",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/93",
+        "https://rickandmortyapi.com/api/character/104",
+        "https://rickandmortyapi.com/api/character/198"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/29",
+      "created": "2017-12-01T11:36:16.463Z"
+    }
+  },
+  {
+    "Id": "9e1a9d87-005c-482a-ac48-11a58c5b0866",
+    "Metadata": "Earth (Unknown dimension)",
+    "RawData": {
+      "id": 30,
+      "name": "Earth (Unknown dimension)",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/822",
+        "https://rickandmortyapi.com/api/character/823",
+        "https://rickandmortyapi.com/api/character/824",
+        "https://rickandmortyapi.com/api/character/825"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/30",
+      "created": "2017-12-01T11:49:43.923Z"
+    }
+  },
+  {
+    "Id": "565dda39-765c-4838-a84a-5fd47554515e",
+    "Metadata": "Earth (J19\u03b67)",
+    "RawData": {
+      "id": 31,
+      "name": "Earth (J19\u03b67)",
+      "type": "Planet",
+      "dimension": "Dimension J19\u03b67",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/31",
+      "created": "2017-12-01T12:29:27.976Z"
+    }
+  },
+  {
+    "Id": "19b301e5-1436-442b-8431-8056daba7b54",
+    "Metadata": "Roy: A Life Well Lived",
+    "RawData": {
+      "id": 32,
+      "name": "Roy: A Life Well Lived",
+      "type": "Game",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/106",
+        "https://rickandmortyapi.com/api/character/393",
+        "https://rickandmortyapi.com/api/character/449",
+        "https://rickandmortyapi.com/api/character/450",
+        "https://rickandmortyapi.com/api/character/451"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/32",
+      "created": "2017-12-26T12:46:48.798Z"
+    }
+  },
+  {
+    "Id": "3c5a3092-2ec6-40c4-a820-7ee7b5f883ac",
+    "Metadata": "Eric Stoltz Mask Earth",
+    "RawData": {
+      "id": 33,
+      "name": "Eric Stoltz Mask Earth",
+      "type": "Planet",
+      "dimension": "Eric Stoltz Mask Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/33",
+      "created": "2017-12-26T13:43:29.291Z"
+    }
+  },
+  {
+    "Id": "00777890-9c91-47a2-8e3b-6224bbfe582b",
+    "Metadata": "Earth (Evil Rick's Target Dimension)",
+    "RawData": {
+      "id": 34,
+      "name": "Earth (Evil Rick's Target Dimension)",
+      "type": "Planet",
+      "dimension": "Evil Rick's Target Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/39",
+        "https://rickandmortyapi.com/api/character/177",
+        "https://rickandmortyapi.com/api/character/232",
+        "https://rickandmortyapi.com/api/character/290",
+        "https://rickandmortyapi.com/api/character/339"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/34",
+      "created": "2017-12-26T15:35:20.499Z"
+    }
+  },
+  {
+    "Id": "331e9bc3-b1e6-4df8-aac3-ed07f80ab3a0",
+    "Metadata": "Planet Squanch",
+    "RawData": {
+      "id": 35,
+      "name": "Planet Squanch",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/47",
+        "https://rickandmortyapi.com/api/character/75",
+        "https://rickandmortyapi.com/api/character/102",
+        "https://rickandmortyapi.com/api/character/194",
+        "https://rickandmortyapi.com/api/character/199",
+        "https://rickandmortyapi.com/api/character/256",
+        "https://rickandmortyapi.com/api/character/261",
+        "https://rickandmortyapi.com/api/character/308",
+        "https://rickandmortyapi.com/api/character/311",
+        "https://rickandmortyapi.com/api/character/331",
+        "https://rickandmortyapi.com/api/character/379"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/35",
+      "created": "2017-12-26T17:51:53.018Z"
+    }
+  },
+  {
+    "Id": "918d64a4-2707-472d-a115-665a496d72de",
+    "Metadata": "Glaagablaaga",
+    "RawData": {
+      "id": 36,
+      "name": "Glaagablaaga",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/36",
+      "created": "2017-12-26T20:30:45.939Z"
+    }
+  },
+  {
+    "Id": "827ab256-534d-48d0-8dae-a69ada97893d",
+    "Metadata": "Resort Planet",
+    "RawData": {
+      "id": 37,
+      "name": "Resort Planet",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/142",
+        "https://rickandmortyapi.com/api/character/296",
+        "https://rickandmortyapi.com/api/character/297",
+        "https://rickandmortyapi.com/api/character/319",
+        "https://rickandmortyapi.com/api/character/369"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/37",
+      "created": "2017-12-27T20:02:59.005Z"
+    }
+  },
+  {
+    "Id": "b9fedb48-84ff-4e43-8f5f-b462395d2def",
+    "Metadata": "Interdimensional Customs",
+    "RawData": {
+      "id": 38,
+      "name": "Interdimensional Customs",
+      "type": "Customs",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/144",
+        "https://rickandmortyapi.com/api/character/158"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/38",
+      "created": "2017-12-29T10:37:48.281Z"
+    }
+  },
+  {
+    "Id": "791dc987-e734-476c-a9e2-20104b1c40fe",
+    "Metadata": "Galactic Federation Prison",
+    "RawData": {
+      "id": 39,
+      "name": "Galactic Federation Prison",
+      "type": "Space station",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/150"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/39",
+      "created": "2017-12-29T12:02:33.513Z"
+    }
+  },
+  {
+    "Id": "9b4e6eb6-cd99-4b3f-a4f8-e9f0f20b40ba",
+    "Metadata": "Gazorpazorp",
+    "RawData": {
+      "id": 40,
+      "name": "Gazorpazorp",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/168",
+        "https://rickandmortyapi.com/api/character/211",
+        "https://rickandmortyapi.com/api/character/376"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/40",
+      "created": "2017-12-29T12:31:50.313Z"
+    }
+  },
+  {
+    "Id": "ac046f46-631d-4da7-a98d-a5b64a029691",
+    "Metadata": "Hamster in Butt World",
+    "RawData": {
+      "id": 41,
+      "name": "Hamster in Butt World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/153"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/41",
+      "created": "2017-12-29T15:27:54.209Z"
+    }
+  },
+  {
+    "Id": "dbc67878-eae3-401a-84db-37c473c096c1",
+    "Metadata": "Earth (Giant Telepathic Spiders Dimension)",
+    "RawData": {
+      "id": 42,
+      "name": "Earth (Giant Telepathic Spiders Dimension)",
+      "type": "Planet",
+      "dimension": "Giant Telepathic Spiders Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/159",
+        "https://rickandmortyapi.com/api/character/160"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/42",
+      "created": "2017-12-29T16:03:28.720Z"
+    }
+  },
+  {
+    "Id": "06fd8427-9cc8-454c-8527-8f5858f0dfdd",
+    "Metadata": "Alphabetrium",
+    "RawData": {
+      "id": 43,
+      "name": "Alphabetrium",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/161",
+        "https://rickandmortyapi.com/api/character/162",
+        "https://rickandmortyapi.com/api/character/212",
+        "https://rickandmortyapi.com/api/character/213",
+        "https://rickandmortyapi.com/api/character/253"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/43",
+      "created": "2017-12-29T16:08:47.694Z"
+    }
+  },
+  {
+    "Id": "3be48897-07df-4e2a-a96b-2f1f356a0602",
+    "Metadata": "Jerryboree",
+    "RawData": {
+      "id": 44,
+      "name": "Jerryboree",
+      "type": "Daycare",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/174",
+        "https://rickandmortyapi.com/api/character/257",
+        "https://rickandmortyapi.com/api/character/441",
+        "https://rickandmortyapi.com/api/character/442",
+        "https://rickandmortyapi.com/api/character/443",
+        "https://rickandmortyapi.com/api/character/444",
+        "https://rickandmortyapi.com/api/character/445",
+        "https://rickandmortyapi.com/api/character/446"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/44",
+      "created": "2017-12-29T17:50:19.947Z"
+    }
+  },
+  {
+    "Id": "67704183-8e84-41fd-8235-ddb1fb0670b5",
+    "Metadata": "Krootabulon",
+    "RawData": {
+      "id": 45,
+      "name": "Krootabulon",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/45",
+      "created": "2017-12-29T19:26:06.827Z"
+    }
+  },
+  {
+    "Id": "6568b9a7-3d6b-4e07-bb08-73ddcf2de9bd",
+    "Metadata": "Zigerion's Base",
+    "RawData": {
+      "id": 46,
+      "name": "Zigerion's Base",
+      "type": "Space station",
+      "dimension": "Dimension C-137",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/87",
+        "https://rickandmortyapi.com/api/character/191",
+        "https://rickandmortyapi.com/api/character/270",
+        "https://rickandmortyapi.com/api/character/337"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/46",
+      "created": "2017-12-29T19:40:07.748Z"
+    }
+  },
+  {
+    "Id": "bbb19d5c-a0c1-4e9c-aab3-91b5459bd53b",
+    "Metadata": "Pluto",
+    "RawData": {
+      "id": 47,
+      "name": "Pluto",
+      "type": "Dwarf planet (Celestial Dwarf)",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/192",
+        "https://rickandmortyapi.com/api/character/307",
+        "https://rickandmortyapi.com/api/character/419",
+        "https://rickandmortyapi.com/api/character/420",
+        "https://rickandmortyapi.com/api/character/421",
+        "https://rickandmortyapi.com/api/character/422"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/47",
+      "created": "2017-12-29T19:49:29.228Z"
+    }
+  },
+  {
+    "Id": "4fb26409-b2f5-4bb0-b7bf-de52b29e6f59",
+    "Metadata": "Fantasy World",
+    "RawData": {
+      "id": 48,
+      "name": "Fantasy World",
+      "type": "Planet",
+      "dimension": "Fantasy Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/41",
+        "https://rickandmortyapi.com/api/character/193",
+        "https://rickandmortyapi.com/api/character/238",
+        "https://rickandmortyapi.com/api/character/333"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/48",
+      "created": "2017-12-29T19:55:54.672Z"
+    }
+  },
+  {
+    "Id": "eabbfb2a-7fb1-48aa-8aef-620beb115d2f",
+    "Metadata": "Zeep Xanflorp's Miniverse",
+    "RawData": {
+      "id": 49,
+      "name": "Zeep Xanflorp's Miniverse",
+      "type": "Miniverse",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/348"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/49",
+      "created": "2017-12-29T19:58:44.675Z"
+    }
+  },
+  {
+    "Id": "e11a608a-8044-4817-aeac-f0f972e52ab5",
+    "Metadata": "Kyle's Teenyverse",
+    "RawData": {
+      "id": 50,
+      "name": "Kyle's Teenyverse",
+      "type": "Teenyverse",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/197",
+        "https://rickandmortyapi.com/api/character/364"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/50",
+      "created": "2017-12-30T12:36:19.730Z"
+    }
+  },
+  {
+    "Id": "2c05c9d5-121c-41e4-80d7-df0bfc6bc95e",
+    "Metadata": "Larva Alien's Planet",
+    "RawData": {
+      "id": 51,
+      "name": "Larva Alien's Planet",
+      "type": "Planet",
+      "dimension": "Unknown dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/51",
+      "created": "2017-12-30T12:48:19.312Z"
+    }
+  },
+  {
+    "Id": "163a98de-6999-430e-b59a-ffbf1bc14b63",
+    "Metadata": "Earth (K-22)",
+    "RawData": {
+      "id": 52,
+      "name": "Earth (K-22)",
+      "type": "Planet",
+      "dimension": "Dimension K-22",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/52",
+      "created": "2017-12-30T16:33:49.507Z"
+    }
+  },
+  {
+    "Id": "5f855c38-8a84-4913-acc5-b544e4cc35b2",
+    "Metadata": "Mr. Meeseeks Box",
+    "RawData": {
+      "id": 53,
+      "name": "Mr. Meeseeks Box",
+      "type": "Box",
+      "dimension": "unknown",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/53",
+      "created": "2017-12-30T17:52:12.217Z"
+    }
+  },
+  {
+    "Id": "b9d137d5-b878-41a9-8b8b-f4c53be178ce",
+    "Metadata": "Vindicator's Base",
+    "RawData": {
+      "id": 54,
+      "name": "Vindicator's Base",
+      "type": "Spacecraft",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/252"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/54",
+      "created": "2017-12-31T12:57:37.824Z"
+    }
+  },
+  {
+    "Id": "d0f1b4e0-7086-4f0f-81c8-d36c2bf488ce",
+    "Metadata": "Pawn Shop Planet",
+    "RawData": {
+      "id": 55,
+      "name": "Pawn Shop Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/258"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/55",
+      "created": "2017-12-31T13:30:33.579Z"
+    }
+  },
+  {
+    "Id": "f239f4c8-9aaa-4acc-86a7-dc8046c0f2b9",
+    "Metadata": "Mega Gargantuan Kingdom",
+    "RawData": {
+      "id": 56,
+      "name": "Mega Gargantuan Kingdom",
+      "type": "Microverse",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/269"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/56",
+      "created": "2017-12-31T14:01:44.921Z"
+    }
+  },
+  {
+    "Id": "7070abb5-dc31-4dbe-ab45-bb2d2dd27b5a",
+    "Metadata": "Gear World",
+    "RawData": {
+      "id": 57,
+      "name": "Gear World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/282",
+        "https://rickandmortyapi.com/api/character/447",
+        "https://rickandmortyapi.com/api/character/448"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/57",
+      "created": "2017-12-31T19:21:17.276Z"
+    }
+  },
+  {
+    "Id": "d3fbe90e-9828-4298-81b2-e8704ee90956",
+    "Metadata": "Earth (D-99)",
+    "RawData": {
+      "id": 58,
+      "name": "Earth (D-99)",
+      "type": "Planet",
+      "dimension": "Dimension D-99",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/58",
+      "created": "2017-12-31T19:49:55.109Z"
+    }
+  },
+  {
+    "Id": "409f3284-bcbe-422b-9a76-1f13f9569bf2",
+    "Metadata": "Earth (D716)",
+    "RawData": {
+      "id": 59,
+      "name": "Earth (D716)",
+      "type": "Planet",
+      "dimension": "Dimension D716",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/59",
+      "created": "2017-12-31T19:51:33.170Z"
+    }
+  },
+  {
+    "Id": "b08f56e6-17e3-45bb-838f-daaaff64f10d",
+    "Metadata": "Earth (D716-B)",
+    "RawData": {
+      "id": 60,
+      "name": "Earth (D716-B)",
+      "type": "Planet",
+      "dimension": "Dimension D716-B",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/60",
+      "created": "2017-12-31T19:55:25.026Z"
+    }
+  },
+  {
+    "Id": "e1a2639f-a013-4927-b3de-b5ab9119cd71",
+    "Metadata": "Earth (D716-C)",
+    "RawData": {
+      "id": 61,
+      "name": "Earth (D716-C)",
+      "type": "Planet",
+      "dimension": "Dimension D716-C",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/61",
+      "created": "2017-12-31T19:57:36.468Z"
+    }
+  },
+  {
+    "Id": "4c1619e7-014c-4647-bd3e-459f3443ea08",
+    "Metadata": "Earth (J-22)",
+    "RawData": {
+      "id": 62,
+      "name": "Earth (J-22)",
+      "type": "Planet",
+      "dimension": "Dimension J-22",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/62",
+      "created": "2017-12-31T20:16:52.263Z"
+    }
+  },
+  {
+    "Id": "d974c6f9-1d22-45cd-be69-c921bec80fc7",
+    "Metadata": "Froopyland",
+    "RawData": {
+      "id": 63,
+      "name": "Froopyland",
+      "type": "Artificially generated world",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/350"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/63",
+      "created": "2018-01-10T17:55:14.227Z"
+    }
+  },
+  {
+    "Id": "c79e5eee-855c-487c-b525-3ff134ed4d9e",
+    "Metadata": "Detoxifier",
+    "RawData": {
+      "id": 64,
+      "name": "Detoxifier",
+      "type": "Machine",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/64",
+      "created": "2018-01-10T18:20:41.627Z"
+    }
+  },
+  {
+    "Id": "e5480110-9554-47cc-b2c5-048ade867ffe",
+    "Metadata": "Trunk World",
+    "RawData": {
+      "id": 65,
+      "name": "Trunk World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/65",
+      "created": "2018-01-10T19:03:13.484Z"
+    }
+  },
+  {
+    "Id": "f4f75a2a-258b-485b-adcc-92fe694fef84",
+    "Metadata": "Plopstar",
+    "RawData": {
+      "id": 66,
+      "name": "Plopstar",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/371"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/66",
+      "created": "2018-01-10T19:56:57.717Z"
+    }
+  },
+  {
+    "Id": "bdf80bc1-5916-41be-93b6-2e987ea493c6",
+    "Metadata": "Blips and Chitz",
+    "RawData": {
+      "id": 67,
+      "name": "Blips and Chitz",
+      "type": "Arcade",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/67",
+      "created": "2018-01-21T19:01:19.496Z"
+    }
+  },
+  {
+    "Id": "6cfef49d-300c-478d-bdba-b75a26dcdb59",
+    "Metadata": "Girvonesk",
+    "RawData": {
+      "id": 68,
+      "name": "Girvonesk",
+      "type": "unknown",
+      "dimension": "unknown",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/68",
+      "created": "2018-04-15T16:39:38.598Z"
+    }
+  },
+  {
+    "Id": "41438919-28c0-46f9-a89d-27b721d254e1",
+    "Metadata": "Earth (C-35)",
+    "RawData": {
+      "id": 69,
+      "name": "Earth (C-35)",
+      "type": "Planet",
+      "dimension": "Dimension C-35",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/69",
+      "created": "2018-04-15T16:55:56.212Z"
+    }
+  },
+  {
+    "Id": "1f41c733-177d-4f21-86df-7893b26cc827",
+    "Metadata": "Snuffles' Dream",
+    "RawData": {
+      "id": 70,
+      "name": "Snuffles' Dream",
+      "type": "Dream",
+      "dimension": "Dimension C-137",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/397",
+        "https://rickandmortyapi.com/api/character/398"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/70",
+      "created": "2018-04-15T17:13:54.071Z"
+    }
+  },
+  {
+    "Id": "8dd3b778-ba15-4150-8212-b1eb2edc00f8",
+    "Metadata": "Earth (Pizza Dimension)",
+    "RawData": {
+      "id": 71,
+      "name": "Earth (Pizza Dimension)",
+      "type": "Planet",
+      "dimension": "Pizza Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/424",
+        "https://rickandmortyapi.com/api/character/425"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/71",
+      "created": "2018-04-15T17:55:04.478Z"
+    }
+  },
+  {
+    "Id": "10a9ddbd-b146-442d-9243-821b45a220ff",
+    "Metadata": "Earth (Phone Dimension)",
+    "RawData": {
+      "id": 72,
+      "name": "Earth (Phone Dimension)",
+      "type": "Planet",
+      "dimension": "Phone Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/404",
+        "https://rickandmortyapi.com/api/character/427",
+        "https://rickandmortyapi.com/api/character/428"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/72",
+      "created": "2018-04-15T17:56:09.117Z"
+    }
+  },
+  {
+    "Id": "97e0ce08-a607-4f42-912f-869af8504c0b",
+    "Metadata": "Greasy Grandma World",
+    "RawData": {
+      "id": 73,
+      "name": "Greasy Grandma World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/426"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/73",
+      "created": "2018-04-16T21:50:20.144Z"
+    }
+  },
+  {
+    "Id": "1f003d21-5735-4340-ae3e-952f8efe9210",
+    "Metadata": "Earth (Chair Dimension)",
+    "RawData": {
+      "id": 74,
+      "name": "Earth (Chair Dimension)",
+      "type": "Planet",
+      "dimension": "Chair Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/429",
+        "https://rickandmortyapi.com/api/character/430",
+        "https://rickandmortyapi.com/api/character/431",
+        "https://rickandmortyapi.com/api/character/432"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/74",
+      "created": "2018-04-16T21:58:24.292Z"
+    }
+  },
+  {
+    "Id": "6ca96ba5-26f6-4b96-89df-909112678abb",
+    "Metadata": "\u00c1rboles Mentirosos",
+    "RawData": {
+      "id": 75,
+      "name": "\u00c1rboles Mentirosos",
+      "type": "Planet",
+      "dimension": "unknown",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/75",
+      "created": "2018-05-01T15:27:20.251Z"
+    }
+  },
+  {
+    "Id": "67dd18b2-0002-4404-a37f-3ddc47acf3f9",
+    "Metadata": "Alien Day Spa",
+    "RawData": {
+      "id": 76,
+      "name": "Alien Day Spa",
+      "type": "Spa",
+      "dimension": "unknown",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/470"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/76",
+      "created": "2018-05-22T20:49:01.820Z"
+    }
+  },
+  {
+    "Id": "0c00b196-5a85-4afc-b5ab-450b403a1452",
+    "Metadata": "Earth (Fascist Dimension)",
+    "RawData": {
+      "id": 77,
+      "name": "Earth (Fascist Dimension)",
+      "type": "Planet",
+      "dimension": "Fascist Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/242",
+        "https://rickandmortyapi.com/api/character/498",
+        "https://rickandmortyapi.com/api/character/499",
+        "https://rickandmortyapi.com/api/character/500",
+        "https://rickandmortyapi.com/api/character/501",
+        "https://rickandmortyapi.com/api/character/502"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/77",
+      "created": "2020-05-02T09:39:49.158Z"
+    }
+  },
+  {
+    "Id": "2e2abcd0-213b-4403-8d11-73837d2c261a",
+    "Metadata": "Snake Planet",
+    "RawData": {
+      "id": 78,
+      "name": "Snake Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/313",
+        "https://rickandmortyapi.com/api/character/571",
+        "https://rickandmortyapi.com/api/character/572",
+        "https://rickandmortyapi.com/api/character/573",
+        "https://rickandmortyapi.com/api/character/574",
+        "https://rickandmortyapi.com/api/character/576",
+        "https://rickandmortyapi.com/api/character/577",
+        "https://rickandmortyapi.com/api/character/578",
+        "https://rickandmortyapi.com/api/character/579",
+        "https://rickandmortyapi.com/api/character/580",
+        "https://rickandmortyapi.com/api/character/581",
+        "https://rickandmortyapi.com/api/character/582",
+        "https://rickandmortyapi.com/api/character/583",
+        "https://rickandmortyapi.com/api/character/587",
+        "https://rickandmortyapi.com/api/character/589"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/78",
+      "created": "2020-05-02T09:47:39.754Z"
+    }
+  },
+  {
+    "Id": "517217bb-5cc0-4f5d-8765-1fbecca58a6b",
+    "Metadata": "Forbodulon Prime",
+    "RawData": {
+      "id": 79,
+      "name": "Forbodulon Prime",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/494",
+        "https://rickandmortyapi.com/api/character/495",
+        "https://rickandmortyapi.com/api/character/496"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/79",
+      "created": "2020-05-02T10:04:05.509Z"
+    }
+  },
+  {
+    "Id": "3a8aef3c-de97-4120-85fa-b1fa3af919b0",
+    "Metadata": "Earth (Fascist Shrimp Dimension)",
+    "RawData": {
+      "id": 80,
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "type": "Planet",
+      "dimension": "Fascist Shrimp Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/503",
+        "https://rickandmortyapi.com/api/character/504",
+        "https://rickandmortyapi.com/api/character/505",
+        "https://rickandmortyapi.com/api/character/506"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/80",
+      "created": "2020-05-02T11:52:35.156Z"
+    }
+  },
+  {
+    "Id": "d72d56f0-eee8-4e44-b4f5-ab0721563a35",
+    "Metadata": "Earth (Fascist Teddy Bear Dimension)",
+    "RawData": {
+      "id": 81,
+      "name": "Earth (Fascist Teddy Bear Dimension)",
+      "type": "Planet",
+      "dimension": "Fascist Teddy Bear Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/507",
+        "https://rickandmortyapi.com/api/character/508"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/81",
+      "created": "2020-05-02T12:16:18.224Z"
+    }
+  },
+  {
+    "Id": "d20dc9f4-839b-470d-afeb-1ffe6b11508c",
+    "Metadata": "Earth (Wasp Dimension)",
+    "RawData": {
+      "id": 82,
+      "name": "Earth (Wasp Dimension)",
+      "type": "Planet",
+      "dimension": "Wasp Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/515",
+        "https://rickandmortyapi.com/api/character/518",
+        "https://rickandmortyapi.com/api/character/519",
+        "https://rickandmortyapi.com/api/character/520",
+        "https://rickandmortyapi.com/api/character/521",
+        "https://rickandmortyapi.com/api/character/522"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/82",
+      "created": "2020-05-02T12:34:19.656Z"
+    }
+  },
+  {
+    "Id": "c3320e99-8770-489c-ac45-48a86a8778b3",
+    "Metadata": "Monogatron Mothership",
+    "RawData": {
+      "id": 83,
+      "name": "Monogatron Mothership",
+      "type": "Space station",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/525",
+        "https://rickandmortyapi.com/api/character/527",
+        "https://rickandmortyapi.com/api/character/528",
+        "https://rickandmortyapi.com/api/character/533"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/83",
+      "created": "2020-05-02T13:10:42.299Z"
+    }
+  },
+  {
+    "Id": "4600a378-596e-4d4b-b7b5-9866b0ff9caf",
+    "Metadata": "Gorgon Quadrant",
+    "RawData": {
+      "id": 84,
+      "name": "Gorgon Quadrant",
+      "type": "Quadrant",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/543"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/84",
+      "created": "2020-05-02T13:21:49.663Z"
+    }
+  },
+  {
+    "Id": "9ce91847-3771-4cde-b467-e8d88ae88d86",
+    "Metadata": "Midland Quasar",
+    "RawData": {
+      "id": 85,
+      "name": "Midland Quasar",
+      "type": "Quasar",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/529",
+        "https://rickandmortyapi.com/api/character/530"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/85",
+      "created": "2020-05-02T13:30:41.732Z"
+    }
+  },
+  {
+    "Id": "54c84618-fd7f-4bea-8e2a-327d926a2ef2",
+    "Metadata": "Mount Space Everest",
+    "RawData": {
+      "id": 86,
+      "name": "Mount Space Everest",
+      "type": "Mount",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/531"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/86",
+      "created": "2020-05-02T13:34:45.332Z"
+    }
+  },
+  {
+    "Id": "b6f9529c-8a71-45b2-9abc-a4ca7090a0a2",
+    "Metadata": "Globaflyn",
+    "RawData": {
+      "id": 87,
+      "name": "Globaflyn",
+      "type": "Liquid",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/532",
+        "https://rickandmortyapi.com/api/character/542"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/87",
+      "created": "2020-05-02T13:44:54.688Z"
+    }
+  },
+  {
+    "Id": "667242ac-c166-4e42-ab32-5a9ca3d8b29d",
+    "Metadata": "Heist-Con",
+    "RawData": {
+      "id": 88,
+      "name": "Heist-Con",
+      "type": "Convention",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/544",
+        "https://rickandmortyapi.com/api/character/545",
+        "https://rickandmortyapi.com/api/character/546",
+        "https://rickandmortyapi.com/api/character/547",
+        "https://rickandmortyapi.com/api/character/548",
+        "https://rickandmortyapi.com/api/character/549",
+        "https://rickandmortyapi.com/api/character/550",
+        "https://rickandmortyapi.com/api/character/551",
+        "https://rickandmortyapi.com/api/character/552",
+        "https://rickandmortyapi.com/api/character/553"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/88",
+      "created": "2020-05-07T09:07:41.816Z"
+    }
+  },
+  {
+    "Id": "d0835236-8095-4dab-9f1c-70ab156e97b9",
+    "Metadata": "Heistotron Base",
+    "RawData": {
+      "id": 89,
+      "name": "Heistotron Base",
+      "type": "Space station",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/554",
+        "https://rickandmortyapi.com/api/character/555",
+        "https://rickandmortyapi.com/api/character/556",
+        "https://rickandmortyapi.com/api/character/557",
+        "https://rickandmortyapi.com/api/character/558"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/89",
+      "created": "2020-05-07T10:11:40.632Z"
+    }
+  },
+  {
+    "Id": "80c1e63e-998a-469b-bb43-d64a27f3c39c",
+    "Metadata": "Mount Olympus",
+    "RawData": {
+      "id": 90,
+      "name": "Mount Olympus",
+      "type": "Mount",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/90",
+      "created": "2020-05-07T10:19:34.206Z"
+    }
+  },
+  {
+    "Id": "2854f193-dd4e-44ed-921c-2a6ffc9f0a4f",
+    "Metadata": "Plitzville Montana",
+    "RawData": {
+      "id": 91,
+      "name": "Plitzville Montana",
+      "type": "Woods",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/91",
+      "created": "2020-05-07T10:23:07.595Z"
+    }
+  },
+  {
+    "Id": "e641f200-a0a2-4207-a5e5-2aea53e35372",
+    "Metadata": "Earth (Tusk Dimension)",
+    "RawData": {
+      "id": 92,
+      "name": "Earth (Tusk Dimension)",
+      "type": "Planet",
+      "dimension": "Tusk Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/92",
+      "created": "2020-05-07T10:25:11.950Z"
+    }
+  },
+  {
+    "Id": "96fde189-4c64-4260-ba87-db65e31d3828",
+    "Metadata": "Gramuflack",
+    "RawData": {
+      "id": 93,
+      "name": "Gramuflack",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/559",
+        "https://rickandmortyapi.com/api/character/560"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/93",
+      "created": "2020-05-07T10:26:35.591Z"
+    }
+  },
+  {
+    "Id": "7f539311-c5df-46bf-84a5-809fcb899b97",
+    "Metadata": "Draygon",
+    "RawData": {
+      "id": 94,
+      "name": "Draygon",
+      "type": "Planet",
+      "dimension": "Magic Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/563",
+        "https://rickandmortyapi.com/api/character/565",
+        "https://rickandmortyapi.com/api/character/566",
+        "https://rickandmortyapi.com/api/character/567",
+        "https://rickandmortyapi.com/api/character/568",
+        "https://rickandmortyapi.com/api/character/569"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/94",
+      "created": "2020-05-07T11:30:49.963Z"
+    }
+  },
+  {
+    "Id": "c9ecb68d-8e1a-46df-90a6-55ebf813b7a8",
+    "Metadata": "New Improved Galactic Federation Quarters",
+    "RawData": {
+      "id": 95,
+      "name": "New Improved Galactic Federation Quarters",
+      "type": "Space station",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/95",
+      "created": "2020-08-05T12:42:58.048Z"
+    }
+  },
+  {
+    "Id": "7ecb1c26-4ea1-431c-9675-23306e0126c6",
+    "Metadata": "Story Train",
+    "RawData": {
+      "id": 96,
+      "name": "Story Train",
+      "type": "Diegesis",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/597",
+        "https://rickandmortyapi.com/api/character/598",
+        "https://rickandmortyapi.com/api/character/599",
+        "https://rickandmortyapi.com/api/character/600",
+        "https://rickandmortyapi.com/api/character/601",
+        "https://rickandmortyapi.com/api/character/606",
+        "https://rickandmortyapi.com/api/character/607",
+        "https://rickandmortyapi.com/api/character/611",
+        "https://rickandmortyapi.com/api/character/612",
+        "https://rickandmortyapi.com/api/character/615",
+        "https://rickandmortyapi.com/api/character/616",
+        "https://rickandmortyapi.com/api/character/617",
+        "https://rickandmortyapi.com/api/character/618",
+        "https://rickandmortyapi.com/api/character/619",
+        "https://rickandmortyapi.com/api/character/620",
+        "https://rickandmortyapi.com/api/character/622",
+        "https://rickandmortyapi.com/api/character/623",
+        "https://rickandmortyapi.com/api/character/624",
+        "https://rickandmortyapi.com/api/character/626",
+        "https://rickandmortyapi.com/api/character/627",
+        "https://rickandmortyapi.com/api/character/630",
+        "https://rickandmortyapi.com/api/character/631",
+        "https://rickandmortyapi.com/api/character/632",
+        "https://rickandmortyapi.com/api/character/633",
+        "https://rickandmortyapi.com/api/character/634",
+        "https://rickandmortyapi.com/api/character/637",
+        "https://rickandmortyapi.com/api/character/638"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/96",
+      "created": "2020-08-06T09:47:28.216Z"
+    }
+  },
+  {
+    "Id": "a09aa66d-8032-4517-8334-5e315d67a0bf",
+    "Metadata": "Non-Diegetic Alternative Reality",
+    "RawData": {
+      "id": 97,
+      "name": "Non-Diegetic Alternative Reality",
+      "type": "Non-Diegetic Alternative Reality",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/593"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/97",
+      "created": "2020-08-06T09:50:13.771Z"
+    }
+  },
+  {
+    "Id": "02faab4c-2529-46df-a0b4-af01b7bbf348",
+    "Metadata": "Tickets Please Guy Nightmare",
+    "RawData": {
+      "id": 98,
+      "name": "Tickets Please Guy Nightmare",
+      "type": "Nightmare",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/594",
+        "https://rickandmortyapi.com/api/character/595",
+        "https://rickandmortyapi.com/api/character/596",
+        "https://rickandmortyapi.com/api/character/605",
+        "https://rickandmortyapi.com/api/character/609",
+        "https://rickandmortyapi.com/api/character/610",
+        "https://rickandmortyapi.com/api/character/639"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/98",
+      "created": "2020-08-06T09:52:43.580Z"
+    }
+  },
+  {
+    "Id": "ac44eac0-8b00-4868-80df-ace5b95507a4",
+    "Metadata": "Morty\u2019s Story",
+    "RawData": {
+      "id": 99,
+      "name": "Morty\u2019s Story",
+      "type": "Diegesis",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/602",
+        "https://rickandmortyapi.com/api/character/604",
+        "https://rickandmortyapi.com/api/character/613",
+        "https://rickandmortyapi.com/api/character/628",
+        "https://rickandmortyapi.com/api/character/629",
+        "https://rickandmortyapi.com/api/character/621"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/99",
+      "created": "2020-08-06T11:42:46.054Z"
+    }
+  },
+  {
+    "Id": "23de0a77-8630-4b80-a26c-639727562e0f",
+    "Metadata": "Ricks\u2019s Story",
+    "RawData": {
+      "id": 100,
+      "name": "Ricks\u2019s Story",
+      "type": "Diegesis",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/603",
+        "https://rickandmortyapi.com/api/character/614",
+        "https://rickandmortyapi.com/api/character/625",
+        "https://rickandmortyapi.com/api/character/635",
+        "https://rickandmortyapi.com/api/character/636",
+        "https://rickandmortyapi.com/api/character/608"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/100",
+      "created": "2020-08-06T11:45:08.782Z"
+    }
+  },
+  {
+    "Id": "3cbedbfc-9cad-4319-b683-862ab79246e9",
+    "Metadata": "Glorzo Asteroid",
+    "RawData": {
+      "id": 101,
+      "name": "Glorzo Asteroid",
+      "type": "Asteroid",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/640",
+        "https://rickandmortyapi.com/api/character/641",
+        "https://rickandmortyapi.com/api/character/642",
+        "https://rickandmortyapi.com/api/character/643",
+        "https://rickandmortyapi.com/api/character/644",
+        "https://rickandmortyapi.com/api/character/645",
+        "https://rickandmortyapi.com/api/character/646",
+        "https://rickandmortyapi.com/api/character/647"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/101",
+      "created": "2020-08-07T11:28:46.897Z"
+    }
+  },
+  {
+    "Id": "7894146d-f7aa-42da-b012-5978f72b4136",
+    "Metadata": "Alien Acid Plant",
+    "RawData": {
+      "id": 102,
+      "name": "Alien Acid Plant",
+      "type": "Acid Plant",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/648",
+        "https://rickandmortyapi.com/api/character/649",
+        "https://rickandmortyapi.com/api/character/650",
+        "https://rickandmortyapi.com/api/character/651"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/102",
+      "created": "2020-08-13T10:08:12.986Z"
+    }
+  },
+  {
+    "Id": "6992b6a9-1be0-4ba2-9fe7-19e20e59d7b3",
+    "Metadata": "Merged Universe",
+    "RawData": {
+      "id": 103,
+      "name": "Merged Universe",
+      "type": "Dimension",
+      "dimension": "Merged Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/652",
+        "https://rickandmortyapi.com/api/character/656",
+        "https://rickandmortyapi.com/api/character/657",
+        "https://rickandmortyapi.com/api/character/658",
+        "https://rickandmortyapi.com/api/character/661",
+        "https://rickandmortyapi.com/api/character/655"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/103",
+      "created": "2020-08-13T10:16:18.946Z"
+    }
+  },
+  {
+    "Id": "1a9757b3-2c99-448c-982d-475cfa0e009a",
+    "Metadata": "Near-Duplicate Reality",
+    "RawData": {
+      "id": 104,
+      "name": "Near-Duplicate Reality",
+      "type": "Reality",
+      "dimension": "Unknown dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/653",
+        "https://rickandmortyapi.com/api/character/654",
+        "https://rickandmortyapi.com/api/character/659",
+        "https://rickandmortyapi.com/api/character/660"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/104",
+      "created": "2020-08-13T11:15:54.414Z"
+    }
+  },
+  {
+    "Id": "48fdf42a-c345-4bf7-b4fc-235d72ecb320",
+    "Metadata": "NX-5 Planet Remover",
+    "RawData": {
+      "id": 105,
+      "name": "NX-5 Planet Remover",
+      "type": "Death Star",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/344",
+        "https://rickandmortyapi.com/api/character/670",
+        "https://rickandmortyapi.com/api/character/671"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/105",
+      "created": "2020-08-13T11:35:53.644Z"
+    }
+  },
+  {
+    "Id": "62956296-281a-4d71-a8a1-8b0ca96e8adb",
+    "Metadata": "Gaia",
+    "RawData": {
+      "id": 106,
+      "name": "Gaia",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/662",
+        "https://rickandmortyapi.com/api/character/663",
+        "https://rickandmortyapi.com/api/character/664",
+        "https://rickandmortyapi.com/api/character/665",
+        "https://rickandmortyapi.com/api/character/666"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/106",
+      "created": "2020-08-13T12:00:29.825Z"
+    }
+  },
+  {
+    "Id": "970117d1-2569-4155-89fa-429c4e8f6c70",
+    "Metadata": "Defiance's Ship",
+    "RawData": {
+      "id": 107,
+      "name": "Defiance's Ship",
+      "type": "Spacecraft",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/668"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/107",
+      "created": "2020-08-13T13:05:33.161Z"
+    }
+  },
+  {
+    "Id": "34cee8f9-ec26-41a8-97f0-483756101d4e",
+    "Metadata": "Defiance's Base",
+    "RawData": {
+      "id": 108,
+      "name": "Defiance's Base",
+      "type": "Base",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/669"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/108",
+      "created": "2020-08-13T13:07:01.192Z"
+    }
+  },
+  {
+    "Id": "885a6e00-6f79-4520-80ea-9377851d823c",
+    "Metadata": "The Ocean",
+    "RawData": {
+      "id": 109,
+      "name": "The Ocean",
+      "type": "Liquid",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/109",
+      "created": "2021-10-16T11:53:50.571Z"
+    }
+  },
+  {
+    "Id": "c916faf6-d97b-40d4-b66b-7da662047d9f",
+    "Metadata": "Narnia Dimension",
+    "RawData": {
+      "id": 110,
+      "name": "Narnia Dimension",
+      "type": "Dimension",
+      "dimension": "Fantasy Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/673",
+        "https://rickandmortyapi.com/api/character/674",
+        "https://rickandmortyapi.com/api/character/675",
+        "https://rickandmortyapi.com/api/character/676",
+        "https://rickandmortyapi.com/api/character/677",
+        "https://rickandmortyapi.com/api/character/678",
+        "https://rickandmortyapi.com/api/character/679",
+        "https://rickandmortyapi.com/api/character/681",
+        "https://rickandmortyapi.com/api/character/682",
+        "https://rickandmortyapi.com/api/character/683",
+        "https://rickandmortyapi.com/api/character/685"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/110",
+      "created": "2021-10-16T11:59:26.649Z"
+    }
+  },
+  {
+    "Id": "425fcb63-df11-4495-a6a7-13f01dac9e28",
+    "Metadata": "Elemental Rings",
+    "RawData": {
+      "id": 111,
+      "name": "Elemental Rings",
+      "type": "Elemental Rings",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/111",
+      "created": "2021-10-17T09:49:31.948Z"
+    }
+  },
+  {
+    "Id": "95b38133-6037-4c15-a6c8-8d75287f02ad",
+    "Metadata": "Morglutz",
+    "RawData": {
+      "id": 112,
+      "name": "Morglutz",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/799"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/112",
+      "created": "2021-10-17T09:51:34.413Z"
+    }
+  },
+  {
+    "Id": "8bafa9b6-896c-46d7-acf7-41fb5a795759",
+    "Metadata": "Ferkus 9",
+    "RawData": {
+      "id": 113,
+      "name": "Ferkus 9",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/718",
+        "https://rickandmortyapi.com/api/character/798"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/113",
+      "created": "2021-10-17T09:52:23.219Z"
+    }
+  },
+  {
+    "Id": "75cb9dde-366b-4d4a-a69c-8cf298422b66",
+    "Metadata": "Morty",
+    "RawData": {
+      "id": 114,
+      "name": "Morty",
+      "type": "Human",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/114",
+      "created": "2021-10-17T10:08:24.040Z"
+    }
+  },
+  {
+    "Id": "f154a99c-ca59-4e80-9f38-d4514143adf5",
+    "Metadata": "Space",
+    "RawData": {
+      "id": 115,
+      "name": "Space",
+      "type": "Space",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/731",
+        "https://rickandmortyapi.com/api/character/736"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/115",
+      "created": "2021-10-17T11:55:43.920Z"
+    }
+  },
+  {
+    "Id": "ddbc1935-a90d-48f1-af08-606ba8842b72",
+    "Metadata": "Hell",
+    "RawData": {
+      "id": 116,
+      "name": "Hell",
+      "type": "Hell",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/744",
+        "https://rickandmortyapi.com/api/character/745",
+        "https://rickandmortyapi.com/api/character/746",
+        "https://rickandmortyapi.com/api/character/747",
+        "https://rickandmortyapi.com/api/character/748",
+        "https://rickandmortyapi.com/api/character/749",
+        "https://rickandmortyapi.com/api/character/750"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/116",
+      "created": "2021-10-17T12:31:59.067Z"
+    }
+  },
+  {
+    "Id": "a6185412-7b0b-4fdc-81b4-e6dbdb4689ae",
+    "Metadata": "Z. Q. P. D.",
+    "RawData": {
+      "id": 117,
+      "name": "Z. Q. P. D.",
+      "type": "Police Department",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/743"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/117",
+      "created": "2021-10-17T13:45:50.845Z"
+    }
+  },
+  {
+    "Id": "5e60590a-0e3d-4849-b2a7-cb424cc787d7",
+    "Metadata": "Space Tahoe",
+    "RawData": {
+      "id": 118,
+      "name": "Space Tahoe",
+      "type": "",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/751",
+        "https://rickandmortyapi.com/api/character/752"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/118",
+      "created": "2021-10-17T14:03:13.221Z"
+    }
+  },
+  {
+    "Id": "6137a1eb-4467-4c4c-ae08-fe8c96457fe2",
+    "Metadata": "France",
+    "RawData": {
+      "id": 119,
+      "name": "France",
+      "type": "Country",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/119",
+      "created": "2021-10-17T14:59:13.494Z"
+    }
+  },
+  {
+    "Id": "76cd570e-ae25-4898-a183-286575ef5d53",
+    "Metadata": "Birdperson's Consciousness",
+    "RawData": {
+      "id": 120,
+      "name": "Birdperson's Consciousness",
+      "type": "Consciousness",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/780",
+        "https://rickandmortyapi.com/api/character/782",
+        "https://rickandmortyapi.com/api/character/783",
+        "https://rickandmortyapi.com/api/character/784",
+        "https://rickandmortyapi.com/api/character/785"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/120",
+      "created": "2021-10-25T09:06:22.109Z"
+    }
+  },
+  {
+    "Id": "878436ab-5624-4232-a288-eaa945b35eaa",
+    "Metadata": "Rick's Consciousness",
+    "RawData": {
+      "id": 121,
+      "name": "Rick's Consciousness",
+      "type": "Consciousness",
+      "dimension": "Replacement Dimension",
+      "residents": [],
+      "url": "https://rickandmortyapi.com/api/location/121",
+      "created": "2021-10-25T09:12:23.715Z"
+    }
+  },
+  {
+    "Id": "36124ce3-afe9-45c6-9555-f6281ed396be",
+    "Metadata": "Avian Planet",
+    "RawData": {
+      "id": 122,
+      "name": "Avian Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/792",
+        "https://rickandmortyapi.com/api/character/793"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/122",
+      "created": "2021-10-26T12:19:52.957Z"
+    }
+  },
+  {
+    "Id": "855dda50-f117-4263-8d2c-74e72bc6435c",
+    "Metadata": "Normal Size Bug Dimension",
+    "RawData": {
+      "id": 123,
+      "name": "Normal Size Bug Dimension",
+      "type": "Dimension",
+      "dimension": "",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/795",
+        "https://rickandmortyapi.com/api/character/796"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/123",
+      "created": "2021-11-02T13:03:21.307Z"
+    }
+  },
+  {
+    "Id": "d38420f1-5127-4535-ad8e-9aee38514ea5",
+    "Metadata": "Slartivart",
+    "RawData": {
+      "id": 124,
+      "name": "Slartivart",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/797"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/124",
+      "created": "2021-11-02T13:07:27.619Z"
+    }
+  },
+  {
+    "Id": "5ddc4c2f-eec7-4687-91c3-8f40ead3fd68",
+    "Metadata": "Rick and Two Crows Planet",
+    "RawData": {
+      "id": 125,
+      "name": "Rick and Two Crows Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/809",
+        "https://rickandmortyapi.com/api/character/808",
+        "https://rickandmortyapi.com/api/character/787"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/125",
+      "created": "2021-11-02T13:50:55.588Z"
+    }
+  },
+  {
+    "Id": "853e2fd4-27cb-4cbb-87e0-01a6f9148363",
+    "Metadata": "Rick's Memories",
+    "RawData": {
+      "id": 126,
+      "name": "Rick's Memories",
+      "type": "Memory",
+      "dimension": "",
+      "residents": [
+        "https://rickandmortyapi.com/api/character/815",
+        "https://rickandmortyapi.com/api/character/814",
+        "https://rickandmortyapi.com/api/character/807",
+        "https://rickandmortyapi.com/api/character/94",
+        "https://rickandmortyapi.com/api/character/779",
+        "https://rickandmortyapi.com/api/character/816",
+        "https://rickandmortyapi.com/api/character/817",
+        "https://rickandmortyapi.com/api/character/274",
+        "https://rickandmortyapi.com/api/character/389",
+        "https://rickandmortyapi.com/api/character/215",
+        "https://rickandmortyapi.com/api/character/294"
+      ],
+      "url": "https://rickandmortyapi.com/api/location/126",
+      "created": "2021-11-02T15:18:57.987Z"
     }
   }
 ]

@@ -27,7 +27,6 @@ class Logger:
             logging.exception(f"Error logging episodes: {e}")
         return episode_names
 
-
     @staticmethod
     def log_locations(episodes: Optional[List[Episode]], locations: Optional[List[Location]]) -> List[str]:
         """Logs locations based on episode characteristics.
@@ -46,11 +45,14 @@ class Logger:
 
                 odd_episode_locations = set()
                 for location in locations:
+                    # check for special characters in the string before it is logged
                     if all(location.url not in episode.characters for episode in episodes if
                            episode.id in odd_episodes):
-                        odd_episode_locations.add(location.name)
+                        encoded_location_name = location.name.encode('ascii', 'ignore').decode('ascii')
+                        odd_episode_locations.add(encoded_location_name)
 
                 location_names = list(odd_episode_locations)
         except Exception as e:
+
             logging.exception(f"Error logging locations: {e}")
         return location_names

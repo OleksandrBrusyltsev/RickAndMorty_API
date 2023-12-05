@@ -1,7 +1,5 @@
 import os
-
 import requests
-import logging
 
 from data_processor import DataProcessor
 from logger import Logger
@@ -55,7 +53,6 @@ class RickAndMortyAPI:
 
         return results
 
-
     def get_characters(self) -> List[Character]:
         """Retrieve characters data from the API."""
         character_data = self.fetch_obj('character')
@@ -95,7 +92,7 @@ def main():
 
     episodes_logger = Logger()
     locations_logger = Logger()
-    #
+
     episodes_result = episodes_logger.log_episodes_year(episodes_data)
     logging.info("Episodes aired between 2017 and 2021 with more than three characters: %s", episodes_result)
 

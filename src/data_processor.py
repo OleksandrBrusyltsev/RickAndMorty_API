@@ -8,7 +8,9 @@ from typing import List, Union
 from dataclass import Character, Location, Episode
 import logging.config
 import logging
+
 logging.config.fileConfig('logging.ini')
+
 
 class DataProcessor:
     result_directory = 'result'

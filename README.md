@@ -1,13 +1,13 @@
 # RickAndMorty API Integration
 
-![RickAndMorty](https://i.gifer.com/fyHf.gif)
+[![RickAndMorty](https://i.gifer.com/fyHf.gif)
 <p>
     <img src="![image]([https://github.com/OleksandrBrusyltsev/RickAndMorty_API/assets/124603897/47d621f2-5618-4efc-9099-1a6009cbf50f](https://i.gifer.com/fyHf.gif))
 " alt="RickAndMorty GIF">
 </p>
 
 ![image](https://github.com/OleksandrBrusyltsev/RickAndMorty_API/assets/124603897/f9aad30b-5df5-4e91-9f58-d9ab387203a7)
-
+](https://static.life.ru/fe0dd42ac393c3a6876505e8a8032887.gif)
 
 
 This project serves as an integration client for the RickAndMorty API, allowing the retrieval of specific objects and processing of their data.

@@ -6,8 +6,7 @@ class DataProcessor:
     @staticmethod
     def save_json(data, filename):
         with open(filename, 'w') as file:
-            json.dump(data, file)
-
+            json.dump(data, file, indent=2)
     @staticmethod
     def process_data(raw_data, data_type):
         processed_data = [{

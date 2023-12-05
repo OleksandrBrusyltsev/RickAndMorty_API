@@ -2,7 +2,7 @@
 
 ![RickAndMorty](https://i.gifer.com/fyHf.gif)
 <p>
-    <img src="![image](https://github.com/OleksandrBrusyltsev/RickAndMorty_API/assets/124603897/47d621f2-5618-4efc-9099-1a6009cbf50f)
+    <img src="![image]([https://github.com/OleksandrBrusyltsev/RickAndMorty_API/assets/124603897/47d621f2-5618-4efc-9099-1a6009cbf50f](https://i.gifer.com/fyHf.gif))
 " alt="RickAndMorty GIF">
 </p>
 

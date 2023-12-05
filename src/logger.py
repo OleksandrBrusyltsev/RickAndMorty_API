@@ -12,7 +12,7 @@ class Logger:
 
     @staticmethod
     def log_locations(episodes, locations):
-        if episodes is not None:  # Проверяем, что episodes не None
+        if episodes is not None:
             odd_episodes = {episode['id'] for episode in episodes if int(episode['episode'].split('E')[-1]) % 2 != 0}
 
             odd_episode_locations = set()

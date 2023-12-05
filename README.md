@@ -6,6 +6,9 @@
 " alt="RickAndMorty GIF">
 </p>
 
+![image](https://github.com/OleksandrBrusyltsev/RickAndMorty_API/assets/124603897/f9aad30b-5df5-4e91-9f58-d9ab387203a7)
+
+
 
 This project serves as an integration client for the RickAndMorty API, allowing the retrieval of specific objects and processing of their data.
 

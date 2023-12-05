@@ -1,6 +1,6 @@
 import os
-
 import requests
+
 from data_processor import DataProcessor
 from logger import Logger
 from dotenv import load_dotenv
@@ -23,7 +23,7 @@ class APIService:
             return None
 
 
-class APIConnector:
+class RickAndMortyAPI:
     def __init__(self, api_service):
         self.api_service = api_service
 
@@ -40,15 +40,11 @@ class APIConnector:
         return results
 
 
-class RickAndMortyAPI(APIConnector):
-    pass
-
-
 def main():
     base_url = os.getenv("BASE_URL")
     api_service = APIService(base_url)
 
-    connector = APIConnector(api_service)
+    connector = RickAndMortyAPI(api_service)
 
     objects = ['character', 'location', 'episode']
     for obj in objects:

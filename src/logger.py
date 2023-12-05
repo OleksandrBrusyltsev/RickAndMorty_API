@@ -24,3 +24,6 @@ class Logger:
             print("Locations appearing only in odd-numbered episodes:")
             for location in odd_episode_locations:
                 print(location)
+
+
+

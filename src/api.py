@@ -1,3 +1,5 @@
+import os
+
 import requests
 import logging
 
@@ -71,7 +73,7 @@ class RickAndMortyAPI:
 
 
 def main():
-    base_url = "https://rickandmortyapi.com/api"
+    base_url = os.getenv("BASE_URL")
     api_service = APIService(base_url)
 
     connector = RickAndMortyAPI(api_service)

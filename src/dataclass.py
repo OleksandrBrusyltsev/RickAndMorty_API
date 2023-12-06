@@ -21,6 +21,8 @@ class Character:
     episode: List[str]
     url: str
     created:str
+
+
 @dataclass
 class Location:
     id: int
@@ -30,6 +32,8 @@ class Location:
     residents: List[str]
     url: str
     created: str
+
+
 @dataclass
 class Episode:
     id: int
@@ -39,3 +43,6 @@ class Episode:
     characters: List[str]
     url: str
     created: str
+
+
+
